@@ -1,0 +1,8 @@
+Removed Pin From Net: NetName=BAT+ Pin=P2-8
+Removed Pin From Net: NetName=BAT- Pin=P2-9
+Removed Pin From Net: NetName=GND Pin=P2-14
+Change Component Footprint: Designator=P2 Old Footprint=HDR1X14 New Footprint=HDR1X6
+Change Component Comment : Designator=P2 Old Comment=Header 14 New Comment=Header 6
+Added Pin To Net: NetName=BAT+ Pin=P2-4
+Added Pin To Net: NetName=BAT- Pin=P2-5
+Added Pin To Net: NetName=GND Pin=P2-6

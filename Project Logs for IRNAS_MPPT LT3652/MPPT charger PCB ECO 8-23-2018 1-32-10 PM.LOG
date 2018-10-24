@@ -1,0 +1,20 @@
+Removed Pin From Net: NetName=NetC5_2 Pin=R1-1
+Removed Pin From Net: NetName=NetIC1_10 Pin=R1-2
+Removed Pin From Net: NetName=GND Pin=R7-1
+Removed Pin From Net: NetName=NetIC1_2 Pin=R7-2
+Change Component Comment : Designator=C1 Old Comment=Capacitor New Comment=1uF
+Change Component Comment : Designator=C3 Old Comment=Capacitor New Comment=2.2uF/1206
+Change Component Comment : Designator=C6 Old Comment=Capacitor New Comment=10uF/1812
+Change Component Comment : Designator=C5 Old Comment=Capacitor New Comment=10uF
+Change Component Comment : Designator=C2 Old Comment=Capacitor New Comment=22uF
+Change Component Comment : Designator=R6 Old Comment=FB1 New Comment=100K
+Change Component Comment : Designator=R8 Old Comment=FB2 New Comment=300K
+Change Component Comment : Designator=L1 Old Comment=Inductor New Comment=5.6uH
+Change Component Comment : Designator=R1 Old Comment=Resistor generic New Comment=0.01R
+Change Component Comment : Designator=R7 Old Comment=Resistor generic New Comment=39K
+Change Component Comment : Designator=R2 Old Comment=Resistor generic New Comment=47K 
+Change Component Comment : Designator=F-D1 Old Comment=Resistor generic New Comment=Fuse
+Added Pin To Net: NetName=NetIC1_10 Pin=R1-1
+Added Pin To Net: NetName=NetC5_2 Pin=R1-2
+Added Pin To Net: NetName=NetIC1_2 Pin=R7-1
+Added Pin To Net: NetName=GND Pin=R7-2

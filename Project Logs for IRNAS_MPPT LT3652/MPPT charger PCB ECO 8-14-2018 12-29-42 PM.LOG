@@ -1,0 +1,7 @@
+Removed Pin From Net: NetName=NetC5_2 Pin=F1-1
+Removed Pin From Net: NetName=GND Pin=P1-4
+Removed Pin From Net: NetName=GND Pin=P2-5
+Removed Pin From Net: NetName=GND Pin=P2-6
+Removed Member From Class: ClassName=MPPT charger Member=F1
+Removed Member From Class: ClassName=MPPT charger Member=P1
+Removed Member From Class: ClassName=MPPT charger Member=P2

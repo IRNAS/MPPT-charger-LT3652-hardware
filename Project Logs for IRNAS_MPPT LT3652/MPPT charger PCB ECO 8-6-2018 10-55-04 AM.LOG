@@ -1,0 +1,174 @@
+Removed Pin From Net: NetName=GND Pin=J1-2
+Removed Pin From Net: NetName=GND Pin=J1-3
+Removed Pin From Net: NetName=NetC5_2 Pin=J1-4
+Removed Pin From Net: NetName=NetC5_2 Pin=J1-5
+Removed Pin From Net: NetName=NetC5_2 Pin=J1-6
+Removed Pin From Net: NetName=GND Pin=J2-1
+Removed Pin From Net: NetName=GND Pin=J2-2
+Removed Pin From Net: NetName=GND Pin=J2-3
+Removed Pin From Net: NetName=NetF-D1_1 Pin=J2-4
+Removed Pin From Net: NetName=NetF-D1_1 Pin=J2-5
+Removed Pin From Net: NetName=NetF-D1_1 Pin=J2-6
+Change Component Footprint: Designator=J1 Old Footprint=HDR1X6 New Footprint=Terminal block - 2 ways
+Change Component Comment : Designator=J1 Old Comment=1_Chg New Comment=Terminal block
+Change Component Comment : Designator=J2 Old Comment=2_Chg New Comment=Terminal block
+Change Component Comment : Designator=C4 Old Comment=Capacitor NP New Comment=Capacitor/Bridge
+Change Component Comment : Designator=C1 Old Comment=Capacitor NP New Comment=Capacitor
+Change Component Comment : Designator=C2 Old Comment=Capacitor NP New Comment=Capacitor
+Change Component Comment : Designator=C3 Old Comment=Capacitor NP New Comment=Capacitor
+Change Component Comment : Designator=C5 Old Comment=Capacitor NP New Comment=Capacitor
+Change Component Comment : Designator=C6 Old Comment=Capacitor NP New Comment=Capacitor
+Change Component Comment : Designator=R6 Old Comment=Resistor generic New Comment=FB1
+Change Component Comment : Designator=R8 Old Comment=Resistor generic New Comment=FB2
+Change component parameters: Designator = "D1"; Footprint = "SMB"; UniqueID = "\DCHQBKKE"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Value"; Value = "SS14"; VariantName = "[No Variations]"
+Change component parameters: Designator = "D2"; Footprint = "SMB"; UniqueID = "\NYXXAPFB"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Value"; Value = "SS14"; VariantName = "[No Variations]"
+Change component parameters: Designator = "IC1"; Footprint = "MSOP12 - EP"; UniqueID = "\GYLWWPRF"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Value"; Value = "LTC3652"; VariantName = "[No Variations]"
+Change component parameters: Designator = "LD1"; Footprint = "LED_0603"; UniqueID = "\GTJWALYM"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Value"; Value = "Red"; VariantName = "[No Variations]"
+Change component parameters: Designator = "LD2"; Footprint = "LED_0603"; UniqueID = "\AASHKEIY"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Value"; Value = "Amber"; VariantName = "[No Variations]"
+Change component parameters: Designator = "F-D1"; Footprint = "1206 RES"; UniqueID = "\BMSLYNHE"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Value"; Value = "2A"; VariantName = "[No Variations]"
+Change component parameters: Designator = "J3"; Footprint = "HDR1X2"; UniqueID = "\RUTHKXYS"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Beta"; Value = "3380"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "10k"; VariantName = "[No Variations]"
+Change component parameters: Designator = "L1"; Footprint = "FDSD0420-H"; UniqueID = "\UIAFFAJA"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Current"; Value = ">4A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Farnell"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "2530091"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "5,6uH"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R1"; Footprint = "1812 RES"; UniqueID = "\TYUAFTKA"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Value"; Value = "0.01R"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R2"; Footprint = "0603 RES"; UniqueID = "\DGNNNGYN"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Value"; Value = "47k"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R3"; Footprint = "0603 RES"; UniqueID = "\FJQPWTAI"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Value"; Value = "1k5"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R4"; Footprint = "0603 RES"; UniqueID = "\NXSWQXAO"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Value"; Value = "1k5"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R6"; Footprint = "0603 RES"; UniqueID = "\FRWOXBOA"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Value"; Value = "100k"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R7"; Footprint = "0603 RES"; UniqueID = "\AHTWEGHX"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Value"; Value = "39k"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R8"; Footprint = "0603 RES"; UniqueID = "\TKTCNKRW"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Value"; Value = "300k"; VariantName = "[No Variations]"
+Change component parameters: Designator = "TR1"; Footprint = "Multiturn 1"; UniqueID = "\LXWQUCVR"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Value"; Value = "100k"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C4"; Footprint = "0603 cap"; UniqueID = "\KPFXODPN"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Desc"; Value = "Cap or Res 0R"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "0R"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "C1"; Footprint = "0805 CAP"; UniqueID = "\MCMQTJHU"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Value"; Value = "1uF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage"; Value = "35V"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C2"; Footprint = "2512 CAP"; UniqueID = "\XEYDRNTN"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Value"; Value = "22uF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage"; Value = "35V"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C3"; Footprint = "1206 CAP"; UniqueID = "\TVPXRKOD"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Value"; Value = "2,2uF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage"; Value = "35V"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C5"; Footprint = "0805 CAP"; UniqueID = "\HFQBCBRS"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Value"; Value = "10uF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage"; Value = "6V"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C6"; Footprint = "1812 CAP"; UniqueID = "\QOFIPUDM"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Value"; Value = "10uF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage"; Value = "6V"; VariantName = "[No Variations]"
+Change component parameters: Designator = "J2"; UniqueID = "\RNNASGYJ"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Block Orientation"; Value = "Through Hole Right Angle"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "http://www.farnell.com/datasheets/1955144.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.farnell.com/datasheets/1955144.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Conductor Area CSA"; Value = "3.3mm²"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Camden Electronics Boss"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "CTB0102/3"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "No. of Positions"; Value = "3Ways"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Pitch Spacing"; Value = "5mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Pricing 1"; Value = "10=0.437, 100=0.312, 500=0.257, 1000=0.218, 2500=0.194, 5000=0.175 (EUR)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Product Range"; Value = "CTB0102 Series"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Rated Current"; Value = "10A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Rated Voltage"; Value = "300V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Stock 1"; Value = "3260"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Farnell"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "2493615"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SVHC"; Value = "No SVHC (17-Dec-2015)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Wire Connection Method"; Value = "Screw"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Wire Size AWG Max"; Value = "12AWG"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Wire Size AWG Min"; Value = "22AWG"; VariantName = "[No Variations]"
+Change component parameters: Designator = "J1"; Footprint = "Terminal block - 2 ways"; UniqueID = "\BJVYHCAD"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Brand"; Value = "Phoenix Contact"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "https://datasheet.ciiva.com/824/1715022-824279.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://datasheet.ciiva.com/824/1715022-824279.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2Description"; Value = "https://datasheet.ciiva.com/15169/getdatasheetpartid-177834-15169625.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = "https://datasheet.ciiva.com/15169/getdatasheetpartid-177834-15169625.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink3Description"; Value = "https://datasheet.ciiva.com/16071/1715022-16071966.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink3URL"; Value = "https://datasheet.ciiva.com/16071/1715022-16071966.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink4Description"; Value = "https://datasheet.ciiva.com/14608/70054386-14608122.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink4URL"; Value = "https://datasheet.ciiva.com/14608/70054386-14608122.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Connection Method"; Value = "Screw"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Current Rating"; Value = "17.5 A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Factory Pack Quantity"; Value = "250"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Flammability Rating"; Value = "UL 94 V-0"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Length"; Value = "9.8 mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Phoenix Contact"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "1715022"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Number of Positions"; Value = "2 Position"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Packaging"; Value = "Bulk"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part # Aliases"; Value = "MKDS_1,5/_2 MKDS152"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Pitch"; Value = "5 mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Pricing 1"; Value = "1=1, 50=0.958, 100=0.932, 250=0.869, 500=0.8, 1000=0.704 (EUR)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Product"; Value = "Fixed Terminal Blocks"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Product Category"; Value = "Fixed Terminal Blocks"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RoHS"; Value = "True"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Series"; Value = "MKDS"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Stock 1"; Value = "2416"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Farnell"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "3714240"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Termination Style"; Value = "Through Hole"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tradename"; Value = "COMBICON Control"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Unit Weight"; Value = "0.094181 oz"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage Rating"; Value = "400 V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Wire Gauge Max"; Value = "10 AWG"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Wire Gauge Min"; Value = "26 AWG"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Wire Gauge Range"; Value = "26 AWG to 10 AWG"; VariantName = "[No Variations]"
+Added Component: Designator=P1(HDR1X4)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetF-D1_1 Pin=J1-2
+Added Pin To Net: NetName=NetC5_2 Pin=J2-1
+Added Pin To Net: NetName=NetC5_2 Pin=J2-2
+Added Pin To Net: NetName=NetC5_2 Pin=J2-3
+Added Pin To Net: NetName=GND Pin=P1-4
+Added Pin To Net: NetName=SCL Pin=P1-2
+Added Net: Name=SCL
+Added Pin To Net: NetName=SDA Pin=P1-3
+Added Net: Name=SDA
+Added Pin To Net: NetName=VCC Pin=P1-1
+Added Net: Name=VCC
+Added Member To Class: ClassName=MPPT charger Member=Component P1 Header 4

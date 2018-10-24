@@ -1,0 +1,151 @@
+Altium Designer Pick and Place Locations
+C:\Users\vojislav\OneDrive\IRNAS-Common\Electronics-Development\Agrelaeco\IRNAS_MPPT_charger\Project Outputs for IRNAS_MPPT LT3652\Generates pick and place files panel\Pick Place for MPPT charger panel.txt
+
+========================================================================================================================
+File Design Information:
+
+Date:       17/09/18
+Time:       11:55
+Revision:   Not in VersionControl
+Variant:    No variations
+Units used: mil
+
+Designator Comment            Layer    Footprint               Center-X(mil) Center-Y(mil) Rotation Description                      
+C6         10uF/1812          TopLayer 1812_CAP                574.134       1978.347      90       ""                               
+R3         "Resistor generic" TopLayer 0603_RES                828.071       1643.701      180      1K5                              
+R4         "Resistor generic" TopLayer 0603_RES                828.071       1718.504      180      1K5                              
+R2         "47K "             TopLayer 0603_RES                624.921       1642.913      270      "RESISTOR, 0603, 47K, FULL REEL" 
+R7         39K                TopLayer 0603_RES                630.433       1767.717      90       ""                               
+R6         100K               TopLayer 0603_RES                687.126       1518.110      90       ""                               
+R8         300K               TopLayer 0603_RES                683.583       1396.851      90       ""                               
+R1         0.01R              TopLayer 1812_RES                493.819       1078.740      270      ""                               
+LD1        "LED diode"        TopLayer LED_0603                957.165       1643.504      180      LED                              
+LD2        "LED diode"        TopLayer LED_0603                957.165       1718.504      180      LED                              
+L1         5.6uH              TopLayer FDSD0420-H              768.622       1027.165      0        "Single coil"                    
+J3         NTC                TopLayer HDR1X2                  524.528       760.236       180      ""                               
+F-D1       Fuse               TopLayer 1206_RES                987.126       1855.906      180      ""                               
+D2         SS14               TopLayer SMB                     519.803       1387.008      270      "High Conductance Fast Diode"    
+D1         SS14               TopLayer SMB                     1014.685      1168.504      270      "High Conductance Fast Diode"    
+C4         Capacitor/Bridge   TopLayer 0603_cap                728.465       1692.913      270      Capacitor/Bridge                 
+C1         1uF                TopLayer 0805_CAP                878.465       1264.567      0        ""                               
+C2         22uF               TopLayer 2512_CAP                892.244       2015.354      360      ""                               
+C3         2.2uF/1206         TopLayer 1206_CAP                788.701       1817.717      360      ""                               
+C5         10uF               TopLayer 0805_CAP                719.016       1286.614      0        ""                               
+IC1        LTC3652            TopLayer MSOP12_-_EP             836.338       1473.701      270      ""                               
+J1         "Terminal block"   TopLayer TERMINAL_BLOCK_-_2_WAYS 893.032       201.378       180      "CONN TERM BLOCK 2POS 5MM PCB"   
+J2         "Terminal block"   TopLayer Terminal_block_-_2_ways 912.323       2378.937      360      "CONN TERM BLOCK 2POS 5MM PCB"   
+C6         10uF/1812          TopLayer 1812_CAP                574.134       4579.839      90       ""                               
+R3         "Resistor generic" TopLayer 0603_RES                828.071       4245.194      180      1K5                              
+R4         "Resistor generic" TopLayer 0603_RES                828.071       4319.997      180      1K5                              
+R2         "47K "             TopLayer 0603_RES                624.921       4244.406      270      "RESISTOR, 0603, 47K, FULL REEL" 
+R7         39K                TopLayer 0603_RES                630.433       4369.209      90       ""                               
+R6         100K               TopLayer 0603_RES                687.126       4119.603      90       ""                               
+R8         300K               TopLayer 0603_RES                683.583       3998.343      90       ""                               
+R1         0.01R              TopLayer 1812_RES                493.819       3680.233      270      ""                               
+LD1        "LED diode"        TopLayer LED_0603                957.165       4244.997      180      LED                              
+LD2        "LED diode"        TopLayer LED_0603                957.165       4319.997      180      LED                              
+L1         5.6uH              TopLayer FDSD0420-H              768.622       3628.658      0        "Single coil"                    
+J3         NTC                TopLayer HDR1X2                  524.528       3361.729      180      ""                               
+F-D1       Fuse               TopLayer 1206_RES                987.126       4457.398      180      ""                               
+D2         SS14               TopLayer SMB                     519.803       3988.501      270      "High Conductance Fast Diode"    
+D1         SS14               TopLayer SMB                     1014.685      3769.997      270      "High Conductance Fast Diode"    
+C4         Capacitor/Bridge   TopLayer 0603_cap                728.465       4294.406      270      Capacitor/Bridge                 
+C1         1uF                TopLayer 0805_CAP                878.465       3866.060      0        ""                               
+C2         22uF               TopLayer 2512_CAP                892.244       4616.847      360      ""                               
+C3         2.2uF/1206         TopLayer 1206_CAP                788.701       4419.209      360      ""                               
+C5         10uF               TopLayer 0805_CAP                719.016       3888.107      0        ""                               
+IC1        LTC3652            TopLayer MSOP12_-_EP             836.338       4075.193      270      ""                               
+J1         "Terminal block"   TopLayer TERMINAL_BLOCK_-_2_WAYS 893.032       2802.871      180      "CONN TERM BLOCK 2POS 5MM PCB"   
+J2         "Terminal block"   TopLayer Terminal_block_-_2_ways 912.323       4980.430      360      "CONN TERM BLOCK 2POS 5MM PCB"   
+C6         10uF/1812          TopLayer 1812_CAP                1319.803      1978.347      90       ""                               
+R3         "Resistor generic" TopLayer 0603_RES                1573.740      1643.701      180      1K5                              
+R4         "Resistor generic" TopLayer 0603_RES                1573.740      1718.504      180      1K5                              
+R2         "47K "             TopLayer 0603_RES                1370.590      1642.913      270      "RESISTOR, 0603, 47K, FULL REEL" 
+R7         39K                TopLayer 0603_RES                1376.102      1767.717      90       ""                               
+R6         100K               TopLayer 0603_RES                1432.795      1518.110      90       ""                               
+R8         300K               TopLayer 0603_RES                1429.252      1396.851      90       ""                               
+R1         0.01R              TopLayer 1812_RES                1239.488      1078.740      270      ""                               
+LD1        "LED diode"        TopLayer LED_0603                1702.834      1643.504      180      LED                              
+LD2        "LED diode"        TopLayer LED_0603                1702.834      1718.504      180      LED                              
+L1         5.6uH              TopLayer FDSD0420-H              1514.291      1027.165      0        "Single coil"                    
+J3         NTC                TopLayer HDR1X2                  1270.197      760.236       180      ""                               
+F-D1       Fuse               TopLayer 1206_RES                1732.795      1855.906      180      ""                               
+D2         SS14               TopLayer SMB                     1265.472      1387.008      270      "High Conductance Fast Diode"    
+D1         SS14               TopLayer SMB                     1760.354      1168.504      270      "High Conductance Fast Diode"    
+C4         Capacitor/Bridge   TopLayer 0603_cap                1474.134      1692.913      270      Capacitor/Bridge                 
+C1         1uF                TopLayer 0805_CAP                1624.134      1264.567      0        ""                               
+C2         22uF               TopLayer 2512_CAP                1637.913      2015.354      360      ""                               
+C3         2.2uF/1206         TopLayer 1206_CAP                1534.370      1817.717      360      ""                               
+C5         10uF               TopLayer 0805_CAP                1464.685      1286.614      0        ""                               
+IC1        LTC3652            TopLayer MSOP12_-_EP             1582.008      1473.701      270      ""                               
+J1         "Terminal block"   TopLayer TERMINAL_BLOCK_-_2_WAYS 1638.701      201.378       180      "CONN TERM BLOCK 2POS 5MM PCB"   
+J2         "Terminal block"   TopLayer Terminal_block_-_2_ways 1657.992      2378.937      360      "CONN TERM BLOCK 2POS 5MM PCB"   
+C6         10uF/1812          TopLayer 1812_CAP                1319.803      4579.839      90       ""                               
+R3         "Resistor generic" TopLayer 0603_RES                1573.740      4245.194      180      1K5                              
+R4         "Resistor generic" TopLayer 0603_RES                1573.740      4319.997      180      1K5                              
+R2         "47K "             TopLayer 0603_RES                1370.590      4244.406      270      "RESISTOR, 0603, 47K, FULL REEL" 
+R7         39K                TopLayer 0603_RES                1376.102      4369.209      90       ""                               
+R6         100K               TopLayer 0603_RES                1432.795      4119.603      90       ""                               
+R8         300K               TopLayer 0603_RES                1429.252      3998.343      90       ""                               
+R1         0.01R              TopLayer 1812_RES                1239.488      3680.233      270      ""                               
+LD1        "LED diode"        TopLayer LED_0603                1702.834      4244.997      180      LED                              
+LD2        "LED diode"        TopLayer LED_0603                1702.834      4319.997      180      LED                              
+L1         5.6uH              TopLayer FDSD0420-H              1514.291      3628.658      0        "Single coil"                    
+J3         NTC                TopLayer HDR1X2                  1270.197      3361.729      180      ""                               
+F-D1       Fuse               TopLayer 1206_RES                1732.795      4457.398      180      ""                               
+D2         SS14               TopLayer SMB                     1265.472      3988.501      270      "High Conductance Fast Diode"    
+D1         SS14               TopLayer SMB                     1760.354      3769.997      270      "High Conductance Fast Diode"    
+C4         Capacitor/Bridge   TopLayer 0603_cap                1474.134      4294.406      270      Capacitor/Bridge                 
+C1         1uF                TopLayer 0805_CAP                1624.134      3866.060      0        ""                               
+C2         22uF               TopLayer 2512_CAP                1637.913      4616.847      360      ""                               
+C3         2.2uF/1206         TopLayer 1206_CAP                1534.370      4419.209      360      ""                               
+C5         10uF               TopLayer 0805_CAP                1464.685      3888.107      0        ""                               
+IC1        LTC3652            TopLayer MSOP12_-_EP             1582.008      4075.193      270      ""                               
+J1         "Terminal block"   TopLayer TERMINAL_BLOCK_-_2_WAYS 1638.701      2802.871      180      "CONN TERM BLOCK 2POS 5MM PCB"   
+J2         "Terminal block"   TopLayer Terminal_block_-_2_ways 1657.992      4980.430      360      "CONN TERM BLOCK 2POS 5MM PCB"   
+C6         10uF/1812          TopLayer 1812_CAP                2065.472      1978.347      90       ""                               
+R3         "Resistor generic" TopLayer 0603_RES                2319.409      1643.701      180      1K5                              
+R4         "Resistor generic" TopLayer 0603_RES                2319.409      1718.504      180      1K5                              
+R2         "47K "             TopLayer 0603_RES                2116.260      1642.913      270      "RESISTOR, 0603, 47K, FULL REEL" 
+R7         39K                TopLayer 0603_RES                2121.771      1767.717      90       ""                               
+R6         100K               TopLayer 0603_RES                2178.464      1518.110      90       ""                               
+R8         300K               TopLayer 0603_RES                2174.921      1396.851      90       ""                               
+R1         0.01R              TopLayer 1812_RES                1985.157      1078.740      270      ""                               
+LD1        "LED diode"        TopLayer LED_0603                2448.504      1643.504      180      LED                              
+LD2        "LED diode"        TopLayer LED_0603                2448.504      1718.504      180      LED                              
+L1         5.6uH              TopLayer FDSD0420-H              2259.960      1027.165      0        "Single coil"                    
+J3         NTC                TopLayer HDR1X2                  2015.866      760.236       180      ""                               
+F-D1       Fuse               TopLayer 1206_RES                2478.464      1855.906      180      ""                               
+D2         SS14               TopLayer SMB                     2011.141      1387.008      270      "High Conductance Fast Diode"    
+D1         SS14               TopLayer SMB                     2506.023      1168.504      270      "High Conductance Fast Diode"    
+C4         Capacitor/Bridge   TopLayer 0603_cap                2219.803      1692.913      270      Capacitor/Bridge                 
+C1         1uF                TopLayer 0805_CAP                2369.803      1264.567      0        ""                               
+C2         22uF               TopLayer 2512_CAP                2383.582      2015.354      360      ""                               
+C3         2.2uF/1206         TopLayer 1206_CAP                2280.039      1817.717      360      ""                               
+C5         10uF               TopLayer 0805_CAP                2210.354      1286.614      0        ""                               
+IC1        LTC3652            TopLayer MSOP12_-_EP             2327.677      1473.701      270      ""                               
+J1         "Terminal block"   TopLayer TERMINAL_BLOCK_-_2_WAYS 2384.370      201.378       180      "CONN TERM BLOCK 2POS 5MM PCB"   
+J2         "Terminal block"   TopLayer Terminal_block_-_2_ways 2403.661      2378.937      360      "CONN TERM BLOCK 2POS 5MM PCB"   
+C6         10uF/1812          TopLayer 1812_CAP                2065.472      4579.839      90       ""                               
+R3         "Resistor generic" TopLayer 0603_RES                2319.409      4245.194      180      1K5                              
+R4         "Resistor generic" TopLayer 0603_RES                2319.409      4319.997      180      1K5                              
+R2         "47K "             TopLayer 0603_RES                2116.260      4244.406      270      "RESISTOR, 0603, 47K, FULL REEL" 
+R7         39K                TopLayer 0603_RES                2121.771      4369.209      90       ""                               
+R6         100K               TopLayer 0603_RES                2178.464      4119.603      90       ""                               
+R8         300K               TopLayer 0603_RES                2174.921      3998.343      90       ""                               
+R1         0.01R              TopLayer 1812_RES                1985.157      3680.233      270      ""                               
+LD1        "LED diode"        TopLayer LED_0603                2448.504      4244.997      180      LED                              
+LD2        "LED diode"        TopLayer LED_0603                2448.504      4319.997      180      LED                              
+L1         5.6uH              TopLayer FDSD0420-H              2259.960      3628.658      0        "Single coil"                    
+J3         NTC                TopLayer HDR1X2                  2015.866      3361.729      180      ""                               
+F-D1       Fuse               TopLayer 1206_RES                2478.464      4457.398      180      ""                               
+D2         SS14               TopLayer SMB                     2011.141      3988.501      270      "High Conductance Fast Diode"    
+D1         SS14               TopLayer SMB                     2506.023      3769.997      270      "High Conductance Fast Diode"    
+C4         Capacitor/Bridge   TopLayer 0603_cap                2219.803      4294.406      270      Capacitor/Bridge                 
+C1         1uF                TopLayer 0805_CAP                2369.803      3866.060      0        ""                               
+C2         22uF               TopLayer 2512_CAP                2383.582      4616.847      360      ""                               
+C3         2.2uF/1206         TopLayer 1206_CAP                2280.039      4419.209      360      ""                               
+C5         10uF               TopLayer 0805_CAP                2210.354      3888.107      0        ""                               
+IC1        LTC3652            TopLayer MSOP12_-_EP             2327.677      4075.193      270      ""                               
+J1         "Terminal block"   TopLayer TERMINAL_BLOCK_-_2_WAYS 2384.370      2802.871      180      "CONN TERM BLOCK 2POS 5MM PCB"   
+J2         "Terminal block"   TopLayer Terminal_block_-_2_ways 2403.661      4980.430      360      "CONN TERM BLOCK 2POS 5MM PCB"   

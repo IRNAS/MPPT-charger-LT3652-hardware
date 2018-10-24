@@ -1,0 +1,14 @@
+Project Outputs Generation Report
+---------------------------------
+Start Output Generation At 11:57:37 AM On 09/17/2018
+
+Output: Generates pick and place files panel
+Type  : Pick Place
+From  : Variant [[No Variations]] of PCB Document [MPPT charger panel.PcbDoc]
+   Generated File[Pick Place for MPPT charger panel.csv]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 11:57:38 AM On 09/17/2018

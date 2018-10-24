@@ -1,0 +1,43 @@
+Removed Pin From Net: NetName=NetC5_2 Pin=J6-2
+Added Component: Designator=F1(PPTC fuse)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Carrying Current Max"; Value = "100												  												  	A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "https://datasheet.ciiva.com/1279/1678471-1279072.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://datasheet.ciiva.com/1279/1678471-1279072.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "https://datasheet.ciiva.com/1274/1864080-1274384.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://datasheet.ciiva.com/1274/1864080-1274384.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Holding Current"; Value = "1.1A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Initial Resistance Max"; Value = "0.2												  												  	ohm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Multicomp"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "MC36225"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature Max"; Value = "85°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature Min"; Value = "-40°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Voltage"; Value = "24												  												  	VDC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pricing 1"; Value = "1=0.122, 50=0.105, 100=0.0936, 250=0.083, 500=0.0829, 1500=0.0827, 7500=0.0826 (EUR)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Product Range"; Value = "MC36 Series"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PTC Fuse Case Style"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Stock 1"; Value = "4269"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "1861167"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SVHC"; Value = "No SVHC (15-Jun-2015)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Thermistor Mounting"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tripping Current"; Value = "2.2A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "24VDC"; VariantName = "[No Variations]"
+Added Component: Designator=P?(HDR1X14)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetC5_2 Pin=F1-1
+Added Pin To Net: NetName=VCC Pin=P?-1
+Added Pin To Net: NetName=SCL Pin=P?-6
+Added Pin To Net: NetName=GND Pin=P?-14
+Added Pin To Net: NetName=BAT+ Pin=P?-8
+Added Net: Name=BAT+
+Added Pin To Net: NetName=BAT- Pin=P?-9
+Added Net: Name=BAT-
+Added Pin To Net: NetName=NetF1_2 Pin=F1-2
+Added Pin To Net: NetName=NetF1_2 Pin=J6-2
+Added Net: Name=NetF1_2
+Added Member To Class: ClassName=MPPT charger Member=Component F1 PPTC fuse
+Added Member To Class: ClassName=MPPT charger Member=Component P? Header 14

@@ -1,0 +1,45 @@
+Removed Pin From Net: NetName=NetC5_2 Pin=J6-1
+Removed Pin From Net: NetName=NetF1_2 Pin=J6-2
+Removed Pin From Net: NetName=NetC5_2 Pin=J6-3
+Removed Member From Class: ClassName=MPPT charger Member=J6
+Change Component Designator: OldDesignator=J5 NewDesignator=J1
+Added Component: Designator=J2(Terminal block - 2 ways)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Brand"; Value = "Phoenix Contact"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "https://datasheet.ciiva.com/824/1715022-824279.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://datasheet.ciiva.com/824/1715022-824279.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "https://datasheet.ciiva.com/15169/getdatasheetpartid-177834-15169625.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://datasheet.ciiva.com/15169/getdatasheetpartid-177834-15169625.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "https://datasheet.ciiva.com/16071/1715022-16071966.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3URL"; Value = "https://datasheet.ciiva.com/16071/1715022-16071966.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink4Description"; Value = "https://datasheet.ciiva.com/14608/70054386-14608122.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink4URL"; Value = "https://datasheet.ciiva.com/14608/70054386-14608122.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Connection Method"; Value = "Screw"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current Rating"; Value = "17.5 A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Factory Pack Quantity"; Value = "250"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Flammability Rating"; Value = "UL 94 V-0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Length"; Value = "9.8 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Phoenix Contact"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "1715022"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Positions"; Value = "2 Position"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Bulk"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part # Aliases"; Value = "MKDS_1,5/_2 MKDS152"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pitch"; Value = "5 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pricing 1"; Value = "1=1, 50=0.958, 100=0.932, 250=0.869, 500=0.8, 1000=0.704 (EUR)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Product"; Value = "Fixed Terminal Blocks"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Product Category"; Value = "Fixed Terminal Blocks"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "True"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Series"; Value = "MKDS"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Stock 1"; Value = "2416"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "3714240"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Termination Style"; Value = "Through Hole"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tradename"; Value = "COMBICON Control"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Unit Weight"; Value = "0.094181 oz"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "400 V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Wire Gauge Max"; Value = "10 AWG"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Wire Gauge Min"; Value = "26 AWG"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Wire Gauge Range"; Value = "26 AWG to 10 AWG"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetF1_2 Pin=J2-1
+Added Pin To Net: NetName=GND Pin=J2-2
+Added Member To Class: ClassName=MPPT charger Member=Component J2 Terminal block

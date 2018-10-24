@@ -1,0 +1,4 @@
+Added Pin To Net: NetName=BAT+ Pin=F1-2
+Added Pin To Net: NetName=BAT+ Pin=J2-1
+Added Pin To Net: NetName=GND Pin=P2-5
+Change Net Name : Old Net Name=GND New Net Name=BAT-
